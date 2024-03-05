@@ -1,13 +1,16 @@
 {
   "name": "api-facebooknew",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "api-facebooknew",
+    "facebook"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@oraliepham/npm-api-fbnew": "^1.0.4",
     "api-chat-fanpage-facebook": "^1.1.4",
@@ -24,6 +27,13 @@
   "homepage": "https://github.com/OraliePham/api-facebooknew#readme",
   "directories": {
     "lib": "lib"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
   },
   "description": ""
 }
