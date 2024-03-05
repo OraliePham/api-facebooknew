@@ -1,0 +1,29 @@
+{
+  "name": "api-facebooknew",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@oraliepham/npm-api-fbnew": "^1.0.4",
+    "api-chat-fanpage-facebook": "^1.1.4",
+    "api-chatfb": "^1.0.6",
+    "api-chatfb-test": "^1.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraliePham/api-facebooknew.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OraliePham/api-facebooknew/issues"
+  },
+  "homepage": "https://github.com/OraliePham/api-facebooknew#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
