@@ -1,6 +1,6 @@
 {
   "name": "api-facebooknew",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@oraliepham/npm-api-fbnew": "^1.0.4",
-    "api-chat-fanpage-facebook": "^1.1.4",
+    "api-chat-fanpage-facebook": "^1.2.0",
     "api-chatfb": "^1.0.6",
     "api-chatfb-test": "^1.0.4"
   },
