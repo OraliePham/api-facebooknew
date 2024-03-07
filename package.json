@@ -1,6 +1,6 @@
 {
-  "name": "api-facebooknew",
-  "version": "1.0.4",
+  "name": "@oraliepham/api-facebooknew",
+  "version": "1.0.5",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +12,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@libphamton/api-client-x": "^1.0.7",
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.3",
+    "@oraliepham/api-facebooknew": "^1.0.5",
     "api-chat-fanpage-facebook": "^1.2.0",
-    "api-chatfb": "^1.0.6",
-    "api-chatfb-test": "^1.0.4"
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.4",
+    "api-facebooknew": "^1.0.4"
   },
   "repository": {
     "type": "git",
